@@ -17,7 +17,7 @@ const arr = [12,23,45,45,44,45,6,64,42,77]
 
 // const output = Math.fround(myNumber)
 
-// const output = Math.hypot(10,40)
+// const output = Math.hypot(10,40) hypotenus
 console.log(Math.min(12,23,45,45,44,45,6,64,42,77));
 console.log(Math.max(12,23,45,45,44,45,6,64,42,77));
 
