@@ -1,5 +1,5 @@
 function maxInArray(arr){
-    let largest = -9999;
+    let largest = -Infinity;
     for(let i =0;i<arr.length;i++){
         if(arr[i]>largest){
             largest = arr[i]
